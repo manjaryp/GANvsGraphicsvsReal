@@ -12,4 +12,8 @@ Three datasets with 160 images in each class are utilized to conduct the General
 [3] Karras, Tero, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, and Timo Aila. "Analyzing and improving the image quality of stylegan." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 8110-8119. 2020. </br>
 [4] Karras, Tero, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, and Timo Aila, “Training generative adversarial networks with limited data,” in Proc. NeurIPS, 2020. </br>
 [5] Tokuda, Eric, Helio Pedrini, and Anderson Rocha. "Computer generated images vs. digital photographs: A synergetic feature and classifier combination approach." Journal of Visual Communication and Image Representation 24, no. 8 (2013): 1276-1292. </br>
-
+[6] Ma, Liqian, Xu Jia, Qianru Sun, Bernt Schiele, Tinne Tuytelaars, and Luc Van Gool. "Pose guided person image generation." arXiv preprint arXiv:1705.09368 (2017).</br>
+[7] Ng, Tian-Tsong, Shih-Fu Chang, Jessie Hsu, and Martin Pepeljugoski. "Columbia photographic images and photorealistic computer graphics dataset." Columbia University, ADVENT Technical Report (2005): 205-2004.</br>
+[8] Zhu, Jun-Yan, Taesung Park, Phillip Isola, and Alexei A. Efros. "Unpaired image-to-image translation using cycle-consistent adversarial networks." In Proceedings of the IEEE international conference on computer vision, pp. 2223-2232. 2017.</br>
+[9] Piaskiewicz, M. "Level-design reference database." Accessed: Jan 15 (2017): 2018.</br>
+[10] Dang-Nguyen, Duc-Tien, Cecilia Pasquini, Valentina Conotter, and Giulia Boato. "Raise: A raw images dataset for digital image forensics." In Proceedings of the 6th ACM multimedia systems conference, pp. 219-224. 2015.
