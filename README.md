@@ -1,4 +1,4 @@
-# GAN versus Graphics versus Real
+# GAN Graphics Real
 **Distinguishing Natural and Computer-Generated Images using Multi-Colorspace fused EfficientNet** </br>
 Manjary P Gangan, Anoop K, and Lajish V L
 
