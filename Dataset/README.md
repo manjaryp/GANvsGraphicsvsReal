@@ -1,1 +1,2 @@
-datasets
+In this study, we utilize a collection of 4000 images generated from ProgressiveGAN [1], StyleGAN [2], StyleGAN2 [3] and StyleGAN2-ADA [4] for the class GAN and 4000 images each from the Computer Graphics versus Photographs dataset [5] for the classes Graphics and Real classes. The details of the dataset can be found in Section IV of the paper. The entire 16000 images used in our study can be found at: 
+
