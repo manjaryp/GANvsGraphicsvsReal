@@ -2,11 +2,11 @@
 The details of three-class implementation of the baselines can be found in Section IV.B of the paper </br>
 
 **1. Quan et al. [1] (_natural images versus computer graphics_):** </br>
-:earth_asia: https://github.com/weizequan/NIvsCG or
+:balance_scale: https://github.com/weizequan/NIvsCG or
 https://github.com/Nx2018/Computer-Generated-image-detection/tree/master/tifs </br>
 
 **2. Rezende et al. [2] (_natural images versus computer graphics_):** </br>
-:earth_asia: https://github.com/bazinho/CG </br>
+:balance_scale: https://github.com/bazinho/CG </br>
 
 **3. Nataraj et al. [3] (_natural images versus GAN images_):** </br> 
 :balance_scale: [natraj_gan_baseline.py](https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/Baselines/natraj_gan_baseline.py)
