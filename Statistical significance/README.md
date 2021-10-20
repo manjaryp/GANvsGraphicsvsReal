@@ -6,3 +6,7 @@ Steps </br>
 [Link to Google](https://www.google.com)
 1. Create contingency tables https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/Statistical%20significance/contingency_table.ipynb </br>
 2. Run StuartMaxwell test https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/Statistical%20significance/Stuart-Maxwell-Test.r
+
+package:
+https://rdrr.io/cran/nonpar/
+https://www.rdocumentation.org/packages/DescTools/versions/0.99.43
