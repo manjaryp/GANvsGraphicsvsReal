@@ -14,4 +14,4 @@ Abstract: The problem of distinguishing natural images from photo-realistic comp
 ## Citation
 
 
-## Acknowledgements**
+## Acknowledgements
