@@ -1,6 +1,6 @@
 # Understanding explanations
 
-Investigating the behavior of _MC-EffNet-2_ using Gradient-weighted Class Activation Mapping (Grad-CAM) [1] visual explanations, details in Section IV.D of paper.
+Investigating the behavior of _MC-EffNet-2_ using Gradient-weighted Class Activation Mapping (Grad-CAM) [1] visual explanations, details in `Section IV.D` of paper.
 
 1. Grad-CAM explanations of _MC-EffNet-2_ : :mag_right: [mceffnet_gradcam.ipynb](https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/Understanding%20explanations/mceffnet_gradcam.ipynb) </br>
 2. Grad-CAM explanations of EfficientNetB0 : :mag_right: [eff_imagenet_gradcam.ipynb](https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/Understanding%20explanations/eff_imagenet_gradcam.ipynb)
