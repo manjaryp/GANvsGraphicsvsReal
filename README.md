@@ -1,4 +1,5 @@
 # GAN Graphics Real
+<img src= 'https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/images/index_pic.PNG'>
 **Distinguishing Natural and Computer-Generated Images using Multi-Colorspace fused EfficientNet** </br>
 Manjary P Gangan, Anoop K, and Lajish V L
 
