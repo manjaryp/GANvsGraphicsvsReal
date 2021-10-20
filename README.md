@@ -33,5 +33,5 @@ For other inquiries, please contact: </br>
 We thank master students (CS2019-21) and staff at the Department of Computer Science, University of Calicut for their involvement and co-operation to conduct the psychophysics experiments in this work.
 
 
-## Project Grand Details 
-This work was supported by the Women Scientist Scheme-A (WOS-A) for Research in Basic/Applied Science from the Department of Science and Technology (DST) of the Government of India under the Grant SR/WOS-A/PM-62/2018
+## Project Grant
+This work was supported by the Women Scientist Scheme-A (WOS-A) for Research in Basic/Applied Science from the Department of Science and Technology (DST) of the Government of India 
