@@ -1,8 +1,7 @@
 # Baselines for comparison
 The details of three-class implementation of the baselines can be found in Section IV.B of the paper </br>
 
-**1. Quan et al. [1] (_natural images versus computer graphics_):** </br>
-:balance_scale: https://github.com/weizequan/NIvsCG or
+**1. Quan et al. [1] (_natural images versus computer graphics_):** :balance_scale: https://github.com/weizequan/NIvsCG or </br>
 https://github.com/Nx2018/Computer-Generated-image-detection/tree/master/tifs </br>
 
 **2. Rezende et al. [2] (_natural images versus computer graphics_):** </br>
