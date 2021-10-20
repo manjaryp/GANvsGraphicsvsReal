@@ -9,7 +9,7 @@ The details of three-class implementation of the baselines can be found in Secti
 :earth_asia: Link: https://github.com/bazinho/CG </br>
 
 **3. Nataraj et al. [3] (_natural images versus GAN images_):** </br> 
-:balance_scale: [natraj_gan_baseline.py](https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/Baselines/natraj_gan_baseline.py
+:balance_scale: [natraj_gan_baseline.py](https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/Baselines/natraj_gan_baseline.py)
 
 **4. InceptionResNet [4] (Off-the-shelf deep neural network):** </br> 
 
