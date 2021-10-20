@@ -38,4 +38,4 @@ This work was supported by the Women Scientist Scheme-A (WOS-A) for Research in 
 
 
 
-<a name="myfootnote1"> </a> _*figure copied from _
+<a name="myfootnote1"> </a> _figure copied from _
