@@ -1,9 +1,9 @@
 # GAN Graphics Real
 <img src= 'https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/images/index_pic.PNG' style="max-width: 100%;">
 **Distinguishing Natural and Computer-Generated Images using Multi-Colorspace fused EfficientNet** 
-Manjary P Gangan, Anoop K, and Lajish V L <\br>
-Computational Intelligence and Data Analytics (CIDA Lab)</br>
-Department of Computer Science</br>
+<\br> Manjary P Gangan, Anoop K, and Lajish V L <\br>
+Computational Intelligence and Data Analytics (CIDA Lab) </br>
+Department of Computer Science </br>
 University of Calicut, India
 
 Paper: https://arxiv.org/abs/2110.09428 
