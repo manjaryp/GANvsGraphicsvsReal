@@ -1,4 +1,4 @@
 # Statistical Significance Test
 
-StuartMaxwell test between, details in Section IV.C.1
+StuartMaxwell test, details in Section IV.C.1 of paper
 
