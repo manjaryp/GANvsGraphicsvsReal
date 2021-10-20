@@ -24,3 +24,4 @@ Abstract: The problem of distinguishing natural images from photo-realistic comp
 ```
 
 ## Acknowledgements
+We thank master students (CS2019-21) and staff at the Department of Computer Science, University of Calicut for their involvement and co-operation to conduct the psychophysics experiments in this work.
