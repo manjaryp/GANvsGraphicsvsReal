@@ -55,7 +55,6 @@ datagen = ImageDataGenerator(
                               preprocessing_function = co_occurrence_horiz
                              )
 
-
 train_generator = datagen.flow_from_directory(
         train_data_dir,
         color_mode="rgb",
@@ -133,7 +132,6 @@ plt.savefig('/content/gdrive/MyDrive/gan_baseline_natraj/co_occurence_horiz_bach
 plt.show()
 
 
-
 ###########################     Test case   ###########################
 
 model = load_model('/content/gdrive/MyDrive/gan_baseline_natraj/co_occurence_horiz_bach40_cnn_000001_100_epoc.h5')
@@ -174,7 +172,5 @@ print(test_rpt)
 test_acc = ((sum(test_target==test_predicted))/test_samples)*100
 print('Test Accuracy = ' + str(test_acc))
 
-
 test_loss= model.evaluate_generator(test_generator, test_samples)
 test_loss
-
