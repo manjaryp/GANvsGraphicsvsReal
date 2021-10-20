@@ -8,7 +8,7 @@ https://github.com/Nx2018/Computer-Generated-image-detection/tree/master/tifs </
 
 3. Nataraj et al. [3] (_natural images versus GAN images_): :balance_scale: [natraj_gan_baseline.py](https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/Baselines/natraj_gan_baseline.py)
 
-4. InceptionResNet [4] (Off-the-shelf deep neural network):
+4. InceptionResNet [4] (Off-the-shelf deep neural network): :balance_scale: [natraj_gan_baseline.py](https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/Baselines/natraj_gan_baseline.py)
 
 ## References
 [1] Quan, Weize, Kai Wang, Dong-Ming Yan, and Xiaopeng Zhang. "Distinguishing between natural and computer-generated images using convolutional neural networks." 
