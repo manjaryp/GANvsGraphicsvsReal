@@ -2,11 +2,11 @@
 The details of three-class implementation of the baselines can be found in Section IV.B of the paper </br>
 
 **1. Quan et al. [1] (_natural images versus computer graphics_):** </br>
-https://github.com/weizequan/NIvsCG or, </br>
-https://github.com/Nx2018/Computer-Generated-image-detection/tree/master/tifs </br>
+:earth_asia: Link: https://github.com/weizequan/NIvsCG or, </br>
+:earth_asia: Link: https://github.com/Nx2018/Computer-Generated-image-detection/tree/master/tifs </br>
 
 **2. Rezende et al. [2] (_natural images versus computer graphics_):** </br>
-https://github.com/bazinho/CG </br>
+:earth_asia: Link: https://github.com/bazinho/CG </br>
 
 **3. Nataraj et al. [3] (_natural images versus GAN images_):** </br> 
 
