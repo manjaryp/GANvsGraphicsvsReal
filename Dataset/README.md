@@ -9,7 +9,7 @@ Three datasets with 160 images in each class are utilized to conduct the General
 **3. Psychophysics Experiments** </br>
 330 images selected from test data of our study. The details of the dataset can be found in Section IV.C.5 of the paper. The entire images used for psychophysics experiments in our study can be found at: :briefcase: [Download](https://www.google.com)
 
-**References** </br>
+## References
 [1] Karras, Tero, Timo Aila, Samuli Laine, and Jaakko Lehtinen. "Progressive growing of gans for improved quality, stability, and variation." arXiv preprint arXiv:1710.10196 (2017). </br>
 [2] Karras, Tero, Samuli Laine, and Timo Aila. "A style-based generator architecture for generative adversarial networks." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 4401-4410. 2019. </br>
 [3] Karras, Tero, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, and Timo Aila. "Analyzing and improving the image quality of stylegan." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 8110-8119. 2020. </br>
