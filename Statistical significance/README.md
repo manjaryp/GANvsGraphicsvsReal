@@ -1,4 +1,4 @@
-# Statistical Significance Test
+# Statistical Significance Test :chart_with_upwards_trend:
 
 Computing statistical significance using StuartMaxwell test, details in Section IV.C.1 of paper
 
