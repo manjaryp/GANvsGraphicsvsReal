@@ -13,5 +13,13 @@ Abstract: The problem of distinguishing natural images from photo-realistic comp
 
 ## Citation
 
+@misc{gangan2021distinguishing,
+      title={Distinguishing Natural and Computer-Generated Images using Multi-Colorspace fused EfficientNet}, 
+      author={Manjary P Gangan and Anoop K and Lajish V L},
+      year={2021},
+      eprint={2110.09428},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 
 ## Acknowledgements
