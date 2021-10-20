@@ -36,5 +36,6 @@ We thank master students (CS2019-21) and staff at the Department of Computer Sci
 ## Project Grant
 This work was supported by the Women Scientist Scheme-A (WOS-A) for Research in Basic/Applied Science from the Department of Science and Technology (DST) of the Government of India 
 
-
+<a name="myfootnote1">1</a>: Footnote content goes here
 *figure copied from :copyright:
+<sup>[1](#myfootnote1)</sup>
