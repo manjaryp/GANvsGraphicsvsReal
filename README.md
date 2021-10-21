@@ -38,4 +38,4 @@ This work was supported by the Women Scientist Scheme-A (WOS-A) for Research in 
 
 
 </br></br>
-<a name="myfootnote1">*</a> *`image copyrights`: the first (leftmost) image is GAN generated using StyleGAN2, available at: [link1](https://github.com/NVlabs/stylegan2), accessed: 2021-10-21| the second (middle) image is Computer Graphics generated, available at: [link1](https://github.com/NVlabs/stylegan2), accessed: 2021-10-21| and the third (rightmost) is a natural image, available at: [link1](https://github.com/NVlabs/stylegan2), accessed: 2021-10-21* 
+<a name="myfootnote1">*</a> *`image source`: the first (leftmost) image is GAN generated using StyleGAN2, available at: [link1](https://github.com/NVlabs/stylegan2), accessed: 2021-10-21 || the second (middle) image is Computer Graphics generated, available at: [link1](https://cgsociety.org/c/featured/1f9s/the-forever), accessed: 2021-10-21 || and the third (rightmost) is a natural image, available at: Computer Graphics versus Photographs dataset[link1](https://doi.org/10.1016/j.jvcir.2013.08.009), accessed: 2021-10-21* 
