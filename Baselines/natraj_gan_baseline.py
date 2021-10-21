@@ -39,9 +39,9 @@ train_samples = 7200
 validation_samples = 2400
 test_samples = 2400
 
-train_data_dir = '/content/gdrive/MyDrive/train'
-validation_data_dir = '/content/gdrive/MyDrive/val'
-test_data_dir = '/content/gdrive/MyDrive/test'
+train_data_dir = 'path to train data'
+validation_data_dir = 'path to validation data'
+test_data_dir = 'path to test data'
 
 def co_occurrence_horiz(image):
     r_horiz = greycomatrix(np.uint64(image[:,:,0]), [1], [0], levels=256, normed=True)
@@ -103,7 +103,7 @@ model.compile(loss='categorical_crossentropy',
               optimizer=Adam(lr=0.000001), 
               metrics=['accuracy'])
 
-checkpointer = ModelCheckpoint(filepath='/content/gdrive/MyDrive/gan_baseline_natraj/co_occurence_horiz_bach40_cnn_000001_100_epoc.h5',
+checkpointer = ModelCheckpoint(filepath='path to model/model_name.h5',
                                verbose=1,
                                save_best_only=True)
 
@@ -119,7 +119,7 @@ plt.title('Model accuracy')
 plt.ylabel('Accuracy')
 plt.xlabel('Epoch')
 plt.legend(['Train', 'Validation'], loc='upper left')
-plt.savefig('/content/gdrive/MyDrive/gan_baseline_natraj/co_occurence_horiz_bach40_cnn_000001_100_epoc_acc.png')
+plt.savefig('path to accuracy plot/acc.png')
 plt.show()
 
 plt.plot(history.history['loss'])
@@ -128,13 +128,13 @@ plt.title('Model loss')
 plt.ylabel('Loss')
 plt.xlabel('Epoch')
 plt.legend(['Train', 'Validation'], loc='upper left')
-plt.savefig('/content/gdrive/MyDrive/gan_baseline_natraj/co_occurence_horiz_bach40_cnn_000001_100_epoc_loss.png')
+plt.savefig('path to loss plot/loss.png')
 plt.show()
 
 
 ###########################     Test case   ###########################
 
-model = load_model('/content/gdrive/MyDrive/gan_baseline_natraj/co_occurence_horiz_bach40_cnn_000001_100_epoc.h5')
+model = load_model('path to model/model_name.h5')
 
 test_pred = model.predict_generator(test_generator,test_samples, verbose=1)
 test_indx = np.argmax(test_pred,axis=1)
@@ -144,7 +144,7 @@ test_predictions = [test_labl[i] for i in test_indx]
 
 test_files = test_generator.filenames
 test_rslt = pd.DataFrame({"Filename":test_files,"Predictions":test_predictions})
-test_rslt.to_csv("/content/gdrive/MyDrive/gan_baseline_natraj/co_occurence_horiz_bach40_cnn_000001_100_epoc_test.csv",index=False)
+test_rslt.to_csv("path to save model predictions/model_prediction.csv",index=False)
 
 print('Test Confusion Matrix')
 test_target = test_generator.classes
@@ -163,7 +163,7 @@ plt.xticks(tick_marks, class_names,rotation=0)
 plt.yticks(tick_marks, class_names)
 ax.yaxis.set_ticks_position('left')
 ax.xaxis.set_ticks_position('top')
-plt.savefig('/content/gdrive/MyDrive/gan_baseline_natraj/co_occurence_horiz_bach40_cnn_000001_100_epoc_test.png')
+plt.savefig('path to save confusion matrix/conf_matrix.png')
 plt.show()
 
 print('\nTest Classification Report\n')
