@@ -1,5 +1,5 @@
 # MC-EffNet
-<img src = "https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/images/mc-effnet3.png" width="500" height="600">
+<img src = "https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/images/mc-effnet3.png" width="800" height="200">
 
 1. MC-EffNet: [Link](https://www.google.com)
 2. SC-EffNet<sub>RGB</sub>: [Link](https://www.google.com)
