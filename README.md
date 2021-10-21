@@ -38,4 +38,4 @@ This work was supported by the Women Scientist Scheme-A (WOS-A) for Research in 
 
 
 </br></br>
-<a name="myfootnote1">*</a> *figure copied from [link1](dcs.uoc.ac.in), [link2](dcs.uoc.ac.in), [link3](dcs.uoc.ac.in)* Ct scan morris county nj | progressive diagnostic imaging. https:// pdirad. com/ ct- scan/. Accessed: 2021-06-14
+<a name="myfootnote1">*</a> *image copyrights: the first (leftmost) image is a GAN generated StyleGAN2 available at: [link1](https://github.com/NVlabs/stylegan2) Accessed: 2021-10-21 |* 
