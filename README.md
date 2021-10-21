@@ -38,4 +38,4 @@ This work was supported by the Women Scientist Scheme-A (WOS-A) for Research in 
 
 
 </br></br>
-<a name="myfootnote1">*</a> *`image copyrights`: the first (leftmost) image is a GAN generated StyleGAN2 available at: [link1](https://github.com/NVlabs/stylegan2), accessed: 2021-10-21| the second (middle) image is a GAN generated StyleGAN2 available at: [link1](https://github.com/NVlabs/stylegan2), accessed: 2021-10-21| the thired (rightmost) image is a GAN generated StyleGAN2 available at: [link1](https://github.com/NVlabs/stylegan2), accessed: 2021-10-21* 
+<a name="myfootnote1">`*`</a> *`image copyrights`: the first (leftmost) image is a GAN generated StyleGAN2 available at: [link1](https://github.com/NVlabs/stylegan2), accessed: 2021-10-21| the second (middle) image is a GAN generated StyleGAN2 available at: [link1](https://github.com/NVlabs/stylegan2), accessed: 2021-10-21| the thired (rightmost) image is a GAN generated StyleGAN2 available at: [link1](https://github.com/NVlabs/stylegan2), accessed: 2021-10-21* 
