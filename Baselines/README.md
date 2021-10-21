@@ -1,14 +1,14 @@
 # Baselines for comparison
 The details of three-class implementation of the baselines can be found in `Section IV.B` of the paper </br>
 
-1. `Quan et al. [1]` (_natural images versus computer graphics_): :balance_scale: https://github.com/weizequan/NIvsCG or </br>
+1. Quan et al. [1] (_natural images versus computer graphics_): :balance_scale: https://github.com/weizequan/NIvsCG or </br>
 https://github.com/Nx2018/Computer-Generated-image-detection/tree/master/tifs </br>
 
-2. `Rezende et al. [2]` (_natural images versus computer graphics_): :balance_scale: https://github.com/bazinho/CG </br>
+2. Rezende et al. [2] (_natural images versus computer graphics_): :balance_scale: https://github.com/bazinho/CG </br>
 
-3. `Nataraj et al. [3]` (_natural images versus GAN images_): :balance_scale: [natraj_gan_baseline.py](https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/Baselines/natraj_gan_baseline.py)
+3. Nataraj et al. [3] (_natural images versus GAN images_): :balance_scale: [natraj_gan_baseline.py](https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/Baselines/natraj_gan_baseline.py)
 
-4. `InceptionResNet [4]` (Off-the-shelf deep neural network): :balance_scale: [inceptionresnet.py](https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/Baselines/inceptionresnet.py)
+4. InceptionResNet [4] (Off-the-shelf deep neural network): :balance_scale: [inceptionresnet.py](https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/Baselines/inceptionresnet.py)
 
 ## References
 [1] Quan, Weize, Kai Wang, Dong-Ming Yan, and Xiaopeng Zhang. "Distinguishing between natural and computer-generated images using convolutional neural networks." 
