@@ -2,7 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 InceptionResnet with transfer learning for classifying GAN, Graphics, Real 
-@author: anoop
+Train and Test Module in the same .py file
+
+@authors: Anoop & Manjary P Gangan 
 """
 
 import keras
