@@ -2,7 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 Program reproducing the work: "Detecting GAN generated fake images using co-occurrence matrices."
-@author: anoop
+Train and Test Module in the same .py file
+
+@authors: Anoop & Manjary P Gangan 
 """
 
 import keras
