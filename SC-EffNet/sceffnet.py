@@ -41,7 +41,7 @@ validation_data_dir = 'path to validation data'
 test_data_dir = 'path to test data'
 
 
-###################   Scaling function  ######################
+###################   Re-Scaling function  ######################
 def scale0to255(image):
 
     converted_image = image
