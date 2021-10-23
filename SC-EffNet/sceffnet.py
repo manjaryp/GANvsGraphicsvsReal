@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Program for Single Colorspace EfficientNet (SC-EffNet)"
-@author: Anoop & Manjary P Gangan
+@author: Anoop K & Manjary P Gangan
 """
 
 import keras
@@ -67,7 +67,7 @@ def scale0to255(image):
 
 def colorFunction(image):
 
-    #converted_image = cv2.cvtColor(image,cv2.COLOR_RGB2YUV) 
+    #color_transf_image = cv2.cvtColor(image,cv2.COLOR_RGB2YUV) 
     color_transf_image = skimage.color.rgb2ydbdr(image)
     scaled_image = scale0to255(color_transf_image) 
     return scaled_image
