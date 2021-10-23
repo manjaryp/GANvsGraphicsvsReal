@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Program for Single Colorspace fused EfficientNet (SC-EffNet)"
-@author: anoop
+@author: Anoop & Manjary P Gangan
 """
 
 import keras
