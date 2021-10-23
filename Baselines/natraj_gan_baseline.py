@@ -8,14 +8,8 @@ Train and Test Module in the same .py file
 """
 
 import keras
-print(keras.__version__)
-
 import tensorflow
-print(tensorflow.__version__)
-
 import mlxtend                                                        
-print(mlxtend.__version__) 
-
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -52,9 +46,7 @@ def co_occurrence_horiz(image):
     co_occurrence_horiz_img = np.dstack((r_horiz[:,:,0], g_horiz[:,:,0], b_horiz[:,:,0]))
     return co_occurrence_horiz_img 
 
-datagen = ImageDataGenerator(
-                              #rescale = 1./255,
-                              preprocessing_function = co_occurrence_horiz
+datagen = ImageDataGenerator(preprocessing_function = co_occurrence_horiz
                              )
 
 train_generator = datagen.flow_from_directory(
@@ -175,4 +167,3 @@ test_acc = ((sum(test_target==test_predicted))/test_samples)*100
 print('Test Accuracy = ' + str(test_acc))
 
 test_loss= model.evaluate_generator(test_generator, test_samples)
-test_loss
