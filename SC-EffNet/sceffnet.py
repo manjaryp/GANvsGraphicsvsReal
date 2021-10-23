@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-Program for Single Colorspace fused EfficientNet (SC-EffNet)"
+Program for Single Colorspace EfficientNet (SC-EffNet)"
 @author: Anoop & Manjary P Gangan
 """
 
