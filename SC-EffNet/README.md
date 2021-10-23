@@ -6,7 +6,7 @@ The implementation of Single Colorspace EfficientNet (_SC-EffNet_) using YDbDr c
 1. For implementing SC-EffNet<sub>ABC</sub> in ABC colorspace, do the folowing changes.
 
 
-Using skimage
+Using scikit-image
 ```python
 def colorFunction(image):
     color_transf_image = skimage.color.rgb2<ABC>(image) 
