@@ -32,3 +32,4 @@ plt.savefig('path to accuracy plot/acc.png')
 plt.show()
 ```
 
+We have used Keras & tensorflow to impliment the model. 
