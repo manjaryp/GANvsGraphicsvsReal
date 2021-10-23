@@ -3,5 +3,4 @@
 <img src = "https://github.com/manjaryp/GANvsGraphicsvsReal/blob/main/images/psychophysics.png" > </br>
 
 
-1. Manual Classification </br>
-2. Human Explanations
+1. MC-EffNet-2 Vs. Manual classification: psychophysics_model_vs_manual_annotation.xlsx
