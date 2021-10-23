@@ -115,7 +115,7 @@ model_eff.summary()
 for layer in model_eff.layers:
     layer.trainable = False
 
-top_model = Dense(3, activation='softmax',name="prediction")(model_eff.layers[-1].output) #(top_model) 
+top_model = Dense(3, activation='softmax',name="prediction")(model_eff.layers[-1].output) 
 model = Model(inputs=model_eff.input, outputs=[top_model]) 
 model.summary()
 
