@@ -32,4 +32,3 @@ plt.savefig('path to accuracy plot/acc.png')
 plt.show()
 ```
 
-For SC-EffNet<sub>RGB</sub>: [Link](#)
