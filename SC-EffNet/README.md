@@ -4,7 +4,7 @@
 1. SC-EffNet<sub>RGB</sub>: [Link](#)
 
 
-```
+```python
 plt.plot(history.history['accuracy'])
 plt.plot(history.history['val_accuracy'])
 plt.title('Model accuracy')
