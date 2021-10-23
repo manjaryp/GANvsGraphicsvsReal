@@ -8,14 +8,8 @@ Train and Test Module in the same .py file
 """
 
 import keras
-print(keras.__version__)
-
 import tensorflow
-print(tensorflow.__version__)
-
 import mlxtend                                                        
-print(mlxtend.__version__) 
-
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -162,4 +156,3 @@ test_acc = ((sum(test_target==test_predicted))/test_samples)*100
 print('Test Accuracy = ' + str(test_acc))
 
 test_loss= model.evaluate_generator(test_generator, test_samples)
-test_loss
