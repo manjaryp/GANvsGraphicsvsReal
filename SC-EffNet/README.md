@@ -21,7 +21,7 @@ def colorFunction(image):
     return scaled_image
 ```
 
-
+</br>
 2. For without rescaling
 
 ```python
