@@ -29,7 +29,7 @@ For other inquiries, please contact: </br>
 }
 ```
 
-## Acknowledgements
+## Acknowledgement
 This work was supported by the Women Scientist Scheme-A (WOS-A) for Research in Basic/Applied Science from the Department of Science and Technology (DST) of the Government of India 
 
 
