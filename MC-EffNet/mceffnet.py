@@ -1,8 +1,6 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
 """
-Created on Sun Oct 24 22:33:47 2021
-@author: anoop
+Program for Multi-Colorspace fused EfficientNet (MC-EffNet-2)
+@author: Manjary & Anoop 
 """
 
 import keras
