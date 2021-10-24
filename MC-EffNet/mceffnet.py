@@ -15,7 +15,7 @@ from mlxtend.evaluate import confusion_matrix
 from mlxtend.plotting import plot_confusion_matrix
 from tensorflow.keras.models import Sequential, Model, load_model
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
-from tensorflow.keras.layers import Convolution2D, MaxPooling2D, Dense, Flatten, concatenate, Concatenate#, Dropout
+from tensorflow.keras.layers import Dense, Flatten, concatenate
 from tensorflow.keras import regularizers
 from tensorflow.keras.callbacks import ModelCheckpoint   
 from sklearn.metrics import classification_report  
