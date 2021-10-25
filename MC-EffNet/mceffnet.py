@@ -1,5 +1,7 @@
 """
 Program for Multi-Colorspace fused EfficientNet (MC-EffNet-2)
+Train and Test Module in the same .py file
+
 @author: Manjary & Anoop 
 """
 
