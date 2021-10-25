@@ -15,7 +15,7 @@ University of Calicut, India
 For other inquiries, please contact: </br>
 Manjary P Gangan at :email: manjaryp_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~manjary/) </br>
 Anoop K at :email: anoopk_dcs@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/~anoop/)</br>
-Lajish V L :email: at lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/index.php/dr-lajish-v-l)
+Lajish V L at :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/index.php/dr-lajish-v-l)
 
 ## Citation
 ```
