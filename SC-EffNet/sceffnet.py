@@ -1,6 +1,8 @@
 """
 Program for Single Colorspace EfficientNet (SC-EffNet)
-@author: Anoop K & Manjary P Gangan
+Train and Test Module in the same .py file
+
+@author: Manjary & Anoop 
 """
 
 import keras
