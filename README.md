@@ -33,10 +33,6 @@ For other inquiries, please contact: </br>
 This work was supported by the Women Scientist Scheme-A (WOS-A) for Research in Basic/Applied Science from the Department of Science and Technology (DST) of the Government of India 
 
 
-## License and copyrights 
-© Manjary P Gangan & Anoop K, Department of Computer Science, University of Calicut
-Licensed under the [MIT License]( LICENSE).
-
 
 </br></br>
 <a name="myfootnote1">*</a> *`image source`: The first (leftmost) image is GAN generated using StyleGAN2, available at: [link](https://github.com/NVlabs/stylegan2), accessed: 2021-10-21 || the second (middle) image is Computer Graphics generated, available at: [link](https://cgsociety.org/c/featured/1f9s/the-forever), accessed: 2021-10-21 || and the third (rightmost) is a natural image, available at: Computer Graphics versus Photographs dataset [link](https://doi.org/10.1016/j.jvcir.2013.08.009), accessed: 2021-10-21* 
