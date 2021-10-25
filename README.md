@@ -32,8 +32,9 @@ For other inquiries, please contact: </br>
 ## Acknowledgement
 This work was supported by the Women Scientist Scheme-A (WOS-A) for Research in Basic/Applied Science from the Department of Science and Technology (DST) of the Government of India 
 
+
 ## License and copyrights 
-(c) Manjary p Gangan and Anoop K, Department of Computer Science, University of Calicut
+© Manjary P Gangan & Anoop K, Department of Computer Science, University of Calicut
 Licensed under the [MIT License]( LICENSE).
 
 
