@@ -6,7 +6,9 @@ A collection of 4000 images generated from ProgressiveGAN [1], StyleGAN [2], Sty
 **2. Generalizability** </br>
 Three datasets with 160 images in each class of the datasets. In the first dataset, images for class GAN is collected from the generated images of PG<sup>2</sup> GAN [6] and for Graphics and Real are collected from PRCG and PIM-Google sets of Columbia dataset [7], respectively. Class Real of first dataset is replaced with PIM-Personal set of Columbia dataset to from the second dataset. In the third dataset, images for class GAN is collected from the generated images of Cycle GAN [8], Graphics from Level-Design Reference Database [9] and Real from RAISE [10]. The details of the dataset can be found in `Section IV.C.3` of the paper. The entire images used for generalizabilty tests in our study can be found at: :briefcase: [Download](https://docs.google.com/forms/d/e/1FAIpQLSezKQj_7jVWslUPZkrZmsFfG5r4HJdcfcUyVjCcDpdg4fV2gw/viewform)
 
-
+**3. Psychophysics Experiments** </br>
+330 images selected from test data of our study. The details of the dataset can be found in `Section IV.C.5` of the paper. The entire images used for psychophysics experiments in our study can be found at: :briefcase: [Download](https://www.google.com)**3. Psychophysics Experiments** </br>
+330 images selected from test data of our study. The details of the dataset can be found in `Section IV.C.5` of the paper. The entire images used for psychophysics experiments in our study can be found at: :briefcase: [Download](https://www.google.com)
 
 ## References
 [1] Karras, Tero, Timo Aila, Samuli Laine, and Jaakko Lehtinen. "Progressive growing of gans for improved quality, stability, and variation." arXiv preprint arXiv:1710.10196 (2017). </br>
