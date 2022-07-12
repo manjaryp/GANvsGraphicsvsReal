@@ -19,17 +19,19 @@ Lajish V L :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in
 
 ## Citation
 ```
-@article{PGANGAN2022103261,
-title = {Distinguishing natural and computer generated images using Multi-Colorspace fused EfficientNet},
-author = {Manjary {P. Gangan} and Anoop K. and Lajish {V. L.}},
-journal = {Journal of Information Security and Applications},
-volume = {68},
-pages = {103261},
-year = {2022},
-issn = {2214-2126},
-doi = {https://doi.org/10.1016/j.jisa.2022.103261},
-url = {https://www.sciencedirect.com/science/article/pii/S2214212622001247}
+@article{gangan2022distinguishing,
+  title={Distinguishing natural and computer generated images using Multi-Colorspace fused EfficientNet},
+  author={Gangan, Manjary P and Anoop, K and Lajish, VL},
+  journal={Journal of Information Security and Applications},
+  volume={68},
+  pages={103261},
+  year={2022},
+  publisher={Elsevier},
+  issn = {2214-2126},
+  doi = {https://doi.org/10.1016/j.jisa.2022.103261},
+  url = {https://www.sciencedirect.com/science/article/pii/S2214212622001247}
 }
+
 ```
 
 ## Acknowledgement
