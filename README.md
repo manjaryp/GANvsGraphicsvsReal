@@ -4,7 +4,6 @@
 
 ## Distinguishing Natural and Computer-Generated Images using Multi-Colorspace fused EfficientNet </br>
 Manjary P. Gangan, Anoop Kadan, and Lajish V. L.</br>
-
 Department of Computer Science </br>
 University of Calicut, India
 
